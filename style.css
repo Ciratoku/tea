@@ -20,7 +20,10 @@ a {
   text-decoration: none;
   color: inherit;
 }
-
+button {
+  padding: 0;
+  border: none;
+}
 ul {
   list-style: none;
 }
