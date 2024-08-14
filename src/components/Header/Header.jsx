@@ -13,6 +13,12 @@ function Header() {
             <img src={logo} alt="TealuxE" />
           </a>
           <nav className="menu">
+            <button className="menu__button">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
             <ul className="menu__list">
               <li className="menu__item">
                 <a href="#" className="menu__link">
